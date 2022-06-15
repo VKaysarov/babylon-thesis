@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 14.06.2022 01:11:29
+# File Created: 15.06.2022 12:41:47
 
 newmtl 09___Default
 	Ns 10.0000
@@ -27,16 +27,6 @@ newmtl 10___Default
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
 
-newmtl wire_135059008
-	Ns 32
-	d 1
-	Tr 0
-	Tf 1 1 1
-	illum 2
-	Ka 0.5294 0.2314 0.0314
-	Kd 0.5294 0.2314 0.0314
-	Ks 0.3500 0.3500 0.3500
-
 newmtl wire_140088225
 	Ns 32
 	d 1
@@ -45,6 +35,16 @@ newmtl wire_140088225
 	illum 2
 	Ka 0.5490 0.3451 0.8824
 	Kd 0.5490 0.3451 0.8824
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_135059008
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.5294 0.2314 0.0314
+	Kd 0.5294 0.2314 0.0314
 	Ks 0.3500 0.3500 0.3500
 
 newmtl 07___Default
@@ -60,6 +60,16 @@ newmtl 07___Default
 	Ke 0.0000 0.0000 0.0000
 	map_Ka C:\Users\?????????\Desktop\Vitec\Coding\Frontend\Babylon\gitTest\babylonjs-webpack-es6\public\marble.jpg
 	map_Kd C:\Users\?????????\Desktop\Vitec\Coding\Frontend\Babylon\gitTest\babylonjs-webpack-es6\public\marble.jpg
+
+newmtl wire_028089177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1098 0.3490 0.6941
+	Kd 0.1098 0.3490 0.6941
+	Ks 0.3500 0.3500 0.3500
 
 newmtl 05___Default
 	Ns 10.0000
